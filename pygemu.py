@@ -24,7 +24,7 @@ service = discovery.build(
     static_discovery=False,
 )
 
-form_id = "1QlJGJdqpK69tRjxamH9YfnadypvAQW3bsIdJuBiCce4"
+form_id = "---hidden---"
 
 # すでに表示した解答を追跡
 displayed_responses = set()
