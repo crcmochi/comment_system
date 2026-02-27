@@ -1,1 +1,6 @@
-# taimenshiki_comment_system
+# 対面式コメントシステム
+Google Forums APIを用いて回答を取得し、
+ニコニコ動画風に回答を流すシステム。
+
+
+作成：2025/03
